@@ -6,10 +6,10 @@
         "blocktime": 8,
         "block": {
             "version": 0,
-            "maxTransactions": 50,
-            "maxPayload": 2097152
+            "maxTransactions": 150,
+            "maxPayload": 6291456
         },
-        "epoch": "2017-03-21T13:00:00.000Z",
+        "epoch": "2019-04-13T23:58:33.271Z",
         "fees": {
             "staticFees": {
                 "transfer": 10000000,
@@ -27,12 +27,5 @@
     {
         "height": 75600,
         "reward": 200000000
-    },
-    {
-        "height": 6600000,
-        "block": {
-            "maxTransactions": 150,
-            "maxPayload": 6300000
-        }
     }
 ]

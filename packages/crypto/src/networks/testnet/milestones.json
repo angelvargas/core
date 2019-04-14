@@ -7,9 +7,9 @@
         "block": {
             "version": 0,
             "maxTransactions": 150,
-            "maxPayload": 2097152
+            "maxPayload": 6291456
         },
-        "epoch": "2017-03-21T13:00:00.000Z",
+        "epoch": "2019-04-13T23:58:34.086Z",
         "fees": {
             "staticFees": {
                 "transfer": 10000000,
